@@ -51,7 +51,7 @@ footer{
 
 .content-foo h4{
   color: #fff;
- /* border-bottom: 3px solid #b8d2df;*/
+ border-bottom: 3px solid #b8d2df;
 /*  padding-bottom: 5px;*/
 /*  margin-bottom: 10px;*/
 }
